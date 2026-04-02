@@ -1,85 +1,81 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=AI-Powered+MVP+Builder;Full-Stack+Since+2016;Web+%2B+Mobile+%2B+AI;From+Idea+to+Live+Product" alt="Typing SVG" />
-</h1>
-
 <p align="center">
-  <em>I help startups go from idea to live product (web + mobile) in weeks.</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&random=false&width=500&height=70&lines=Chris+Song;AI-Powered+MVP+Builder" alt="Chris Song" />
 </p>
 
 <p align="center">
-  <a href="mailto:chrissong94@protonmail.com">
-    <img src="https://img.shields.io/badge/Email-chrissong94-3B82F6?style=for-the-badge&logo=protonmail&logoColor=white" />
-  </a>
-  <a href="https://qingyusong94.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-qingyusong94.github.io-22C55E?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/qingyusong94">
-    <img src="https://img.shields.io/badge/GitHub-qingyusong94-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <em>I help startups go from idea to live product — web + mobile — in weeks.</em>
+</p>
+
+<p align="center">
+  <a href="mailto:chrissong94@protonmail.com"><img src="https://img.shields.io/badge/Email-chrissong94-3B82F6?style=flat-square&logo=protonmail&logoColor=white" /></a>&nbsp;
+  <a href="https://qingyusong94.github.io"><img src="https://img.shields.io/badge/Portfolio-qingyusong94.github.io-22C55E?style=flat-square&logo=safari&logoColor=white" /></a>&nbsp;
+  <a href="https://github.com/qingyusong94"><img src="https://img.shields.io/badge/GitHub-qingyusong94-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-### About
+#### About
 
-Full-stack engineer building AI-powered products for startups since 2016. I ship web apps, cross-platform mobile apps (React Native — iOS + Android from one codebase), and AI systems — from RAG pipelines to multi-agent orchestration. Background in enterprise systems at DHC Software and Pactera, now building independently.
+Full-stack engineer building AI-powered products for startups since 2016. I ship web apps, cross-platform mobile apps (React Native), and AI systems — RAG pipelines, multi-agent orchestration, SaaS with Stripe billing. Background in enterprise systems at DHC Software and Pactera, now building independently from Dalian, China.
 
 ---
 
-### Tech Stack
+#### Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,nodejs,fastapi,tailwind,docker&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,fastapi,nodejs,tailwind,docker&theme=dark&perline=8" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,aws,linux,git,solidity,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,aws,linux,git,solidity,vscode&theme=dark&perline=8" />
   </a>
 </p>
 
 <details>
-<summary><b>Full stack details</b></summary>
+<summary>&nbsp;<b>Full details</b></summary>
 <br>
 
-| Layer | Technologies |
-|-------|-------------|
-| **AI** | LangChain · LangGraph · CrewAI · OpenAI API · Claude API · RAG · Pinecone |
+| | Technologies |
+|---|---|
+| **AI** | LangChain · LangGraph · CrewAI · OpenAI API · Claude API · RAG · Pinecone · MCP |
 | **Web** | React · Next.js · TypeScript · Tailwind CSS |
-| **Mobile** | React Native · Expo · iOS + Android |
-| **Backend** | FastAPI · Node.js · Express.js |
-| **Billing** | Stripe (subscriptions, usage-based, in-app purchases) |
-| **Database** | PostgreSQL · Redis · MongoDB · Supabase · Pinecone |
-| **DevOps** | Docker · Kubernetes · CI/CD · Nginx · Linux |
+| **Mobile** | React Native · Expo · iOS + Android from one codebase |
+| **Backend** | FastAPI · Node.js · Express.js · Python |
+| **Payments** | Stripe — subscriptions, usage-based, in-app purchases |
+| **Database** | PostgreSQL · Redis · MongoDB · Supabase |
+| **DevOps** | Docker · Kubernetes · CI/CD · Nginx · AWS |
 | **Blockchain** | Solidity · Hardhat · Ethers.js · ERC-20/721 |
 
 </details>
 
 ---
 
-### GitHub Stats
+#### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qingyusong94&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qingyusong94&theme=tokyonight&hide_border=true" height="170" />
+  <picture>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=qingyusong94&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" height="160" />
+  </picture>&nbsp;&nbsp;
+  <picture>
+    <img src="https://streak-stats.demolab.com?user=qingyusong94&theme=tokyonight&hide_border=true" height="160" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qingyusong94&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=qingyusong94&theme=tokyonight&no-frame=true&column=7&margin-w=10" width="95%" />
+  <picture>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=qingyusong94&theme=tokyo-night&hide_border=true&area=true" width="90%" />
+  </picture>
 </p>
 
 ---
 
-### Background
+#### Background
 
 ```
-2023 — now    Independent AI Product Builder (Self-Employed)
-2019 — 2023   Pactera — Blockchain & Full-Stack Developer
-2016 — 2019   DHC Software — Full-Stack Developer
+2023 — now    Independent AI Product Builder
+2019 — 2023   Pactera — Blockchain & Full-Stack
+2016 — 2019   DHC Software — Full-Stack
 2012 — 2016   Dalian University of Technology — B.S. Software Engineering
 ```
