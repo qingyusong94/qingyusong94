@@ -67,3 +67,5 @@ Web应用 + 跨平台移动应用（React Native — 一套代码，iOS + Androi
 📍 大连 · 大连理工大学软件工程本科
 
 </details>
+
+<!-- Updated stack list -->
